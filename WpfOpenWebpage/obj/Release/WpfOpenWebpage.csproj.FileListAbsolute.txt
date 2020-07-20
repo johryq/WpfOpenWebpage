@@ -1,0 +1,15 @@
+E:\Code\2020\WpfStudy\WpfOpenWebpage\bin\Release\WpfOpenWebpage.exe.config
+E:\Code\2020\WpfStudy\WpfOpenWebpage\bin\Release\WpfOpenWebpage.exe
+E:\Code\2020\WpfStudy\WpfOpenWebpage\bin\Release\WpfOpenWebpage.pdb
+E:\Code\2020\WpfStudy\WpfOpenWebpage\obj\Release\WpfOpenWebpage.csprojAssemblyReference.cache
+E:\Code\2020\WpfStudy\WpfOpenWebpage\obj\Release\MainWindow.g.cs
+E:\Code\2020\WpfStudy\WpfOpenWebpage\obj\Release\App.g.cs
+E:\Code\2020\WpfStudy\WpfOpenWebpage\obj\Release\WpfOpenWebpage_MarkupCompile.cache
+E:\Code\2020\WpfStudy\WpfOpenWebpage\obj\Release\WpfOpenWebpage_MarkupCompile.lref
+E:\Code\2020\WpfStudy\WpfOpenWebpage\obj\Release\MainWindow.baml
+E:\Code\2020\WpfStudy\WpfOpenWebpage\obj\Release\WpfOpenWebpage.g.resources
+E:\Code\2020\WpfStudy\WpfOpenWebpage\obj\Release\WpfOpenWebpage.Properties.Resources.resources
+E:\Code\2020\WpfStudy\WpfOpenWebpage\obj\Release\WpfOpenWebpage.csproj.GenerateResource.cache
+E:\Code\2020\WpfStudy\WpfOpenWebpage\obj\Release\WpfOpenWebpage.csproj.CoreCompileInputs.cache
+E:\Code\2020\WpfStudy\WpfOpenWebpage\obj\Release\WpfOpenWebpage.exe
+E:\Code\2020\WpfStudy\WpfOpenWebpage\obj\Release\WpfOpenWebpage.pdb
